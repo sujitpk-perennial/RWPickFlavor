@@ -14,7 +14,7 @@ s.version = "0.1.0"
 s.license = { :type => "MIT", :file => "LICENSE" }
 
 # 4 - Replace with your name and e-mail address
-s.author = { "[Your Name Goes Here]" => "[Your_Email@Your_Email_Domain.com]" }
+s.author = { "SUJIT" => "sujit.kaulavkar@perennialsys.com" }
 
 # For example,
 # s.author = { "Joshua Greene" => "jrg.developer@gmail.com" }
